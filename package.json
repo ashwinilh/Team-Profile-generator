@@ -1,0 +1,25 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "Team profile generator is a node command line application that takes in information about employees using the Inquirer package and generates an HTML webpage that displays summaries for each person.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashwinilh/Team-Profile-generator.git"
+  },
+  "author": "Ashwini LH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashwinilh/Team-Profile-generator/issues"
+  },
+  "homepage": "https://github.com/ashwinilh/Team-Profile-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
